@@ -15,7 +15,7 @@ I am Ibrahim Diab , I graduated from the Faculty of Computer and Information Sci
          <img alt="Linkedin" src="https://user-images.githubusercontent.com/61358381/198680726-c6331b2f-e3c9-4972-9d27-4e58ce4cebaf.png"
          width=30" height="30">
       </a> 
-                              <a href="https://www.linkedin.com/in/ibrahim-diab-0b7413173/">
+                              <a href="https://www.linkedin.com/in/ibrahim-diab7/">
          <img alt="Linkedin" src="https://user-images.githubusercontent.com/61358381/198680720-6a7cce56-a66d-4383-b8c0-f1d3ee81cf0f.png"
          width=30" height="30">
       </a>
