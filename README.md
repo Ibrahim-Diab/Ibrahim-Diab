@@ -47,16 +47,18 @@ Download my CV for more details:
 
 ## 📞 Reach Me
 Feel free to connect with me:
-- 📧 Email: [ibrahimdiab011@gmail.com](mailto:ibrahimdiab011@gmail.com)
-- 💼 LinkedIn: [Ibrahim Diab](https://www.linkedin.com/in/ibrahim-diab7/)
-
+ <a href="ibrahimdiab011@gmail.com">
+         <img alt="Linkedin" src="https://user-images.githubusercontent.com/61358381/198680726-c6331b2f-e3c9-4972-9d27-4e58ce4cebaf.png"
+         width=30" height="30">
+      </a> 
+            <a href="https://www.linkedin.com/in/ibrahim-diab7/">
+         <img alt="Linkedin" src="https://user-images.githubusercontent.com/61358381/198680720-6a7cce56-a66d-4383-b8c0-f1d3ee81cf0f.png"
+         width=30" height="30">
+      </a>
 ---
 
 
 ## 🎨 Personal Interests
-- ⛵ Cycling
 - ⚽ Football
 - 🎮 Videogames
 - 📚 Reading
-- 💻 Computers
-
