@@ -5,7 +5,7 @@ I am Ibrahim Diab, a passionate **iOS Developer** with a degree from the Faculty
 ---
 
 ## 📚 Professional Summary
-- **Programming Languages:** Swift, Objective-C
+- **Programming Languages:** Swift
 - **Frameworks & Tools:** UIKit, SwiftUI, Combine, Core Data, Firebase, REST APIs, Alamofire
 - **Development Tools:** Xcode, Git, Postman
 - **Design Patterns:** MVC, MVVM, Singleton, Dependency Injection (DI)
