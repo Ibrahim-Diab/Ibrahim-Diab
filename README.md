@@ -47,6 +47,7 @@ Download my CV for more details:
 
 ## 📞 Reach Me
 Feel free to connect with me:
+
  <a href="ibrahimdiab011@gmail.com">
          <img alt="Linkedin" src="https://user-images.githubusercontent.com/61358381/198680726-c6331b2f-e3c9-4972-9d27-4e58ce4cebaf.png"
          width=30" height="30">
