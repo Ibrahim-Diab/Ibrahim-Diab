@@ -26,18 +26,6 @@ Here are some of the tools and technologies I frequently work with:
 
 ---
 
-## 🎮 Featured Projects
-- **[SmartRecord](https://apps.apple.com/eg/app/smartrecord/id6468998582):** A high-quality audio recording app with advanced features.
-- **[Teacher Now](https://github.com/ibrahimdiab/TeacherNow):** A comprehensive platform for teachers and students.
-- **[Rose Station](https://github.com/ibrahimdiab/RoseStation):** A flower-buying app with smooth animations and clean UI.
-
----
-
-## 🏆 Achievements
-- **App Store Recognition:** SmartRecord featured in "Top Productivity Apps."
-- **Certification:** iOS App Development with Swift (Udemy, 2022).
-
----
 
 ## 🗒 CV
 Download my CV for more details:
