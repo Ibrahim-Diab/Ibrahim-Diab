@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am Ibrahim Diab, a passionate **iOS Developer** with a degree from the Faculty of Computer and Information Sciences, Computer Science Department, Mansoura University (July 2021). I am currently based in Mansoura, Egypt.
+I am Ibrahim Diab, a passionate **iOS Developer** with a degree from the Faculty of Computer and Information Sciences, Computer Science Department, Mansoura University (July 2021). 
 
 ---
 
@@ -56,6 +56,7 @@ Feel free to connect with me:
          <img alt="Linkedin" src="https://user-images.githubusercontent.com/61358381/198680720-6a7cce56-a66d-4383-b8c0-f1d3ee81cf0f.png"
          width=30" height="30">
       </a>
+      
 ---
 
 
