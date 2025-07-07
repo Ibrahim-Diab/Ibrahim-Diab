@@ -29,7 +29,7 @@ Here are some of the tools and technologies I frequently work with:
 
 ## 🗒 CV
 Download my CV for more details:
-[IbrahimDiab-iOS.pdf](https://github.com/user-attachments/files/20877874/IbrahimDiab-iOS.pdf)
+[IbrahimDiab-iOS.pdf](https://github.com/user-attachments/files/21104914/IbrahimDiab-iOS.pdf)
 
 ---
 
